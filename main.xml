@@ -1,4 +1,4 @@
-<mod name="Crackdown Assets - Murkies Faction" min_lib_ver="4.3">
-	<AssetUpdates id="Crackdown-PD2/Crackdown-Assets-Faction-Murkies" branch="main" provider="github" version="1.0.0" release="true" important="false" dont_delete="false"/>
+<mod name="Crackdown Assets - Murkies Faction" priority="4" min_lib_ver="4.3">
+	<AssetUpdates id="Crackdown-PD2/Crackdown-Assets-Faction-Murkies" branch="main" provider="github" version="1.0.1" release="true" important="false" dont_delete="false"/>
 	<Package id="packages/deathvoxmurkies" file="crackdownmurkies.xml"/>
 </mod>
